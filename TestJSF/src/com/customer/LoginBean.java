@@ -9,6 +9,8 @@ import javax.faces.bean.SessionScoped;
 import javax.faces.context.FacesContext;
 import javax.servlet.http.HttpSession;
 
+import com.customer.dao.UserDAO;
+
 @ManagedBean(name = "loginBean")
 @SessionScoped
 /**

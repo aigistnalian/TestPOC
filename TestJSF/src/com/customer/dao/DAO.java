@@ -1,4 +1,4 @@
-package com.customer;
+package com.customer.dao;
 
 public interface DAO<K, E> {
     void persist(E entity);

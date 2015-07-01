@@ -23,6 +23,8 @@ import javax.transaction.RollbackException;
 import javax.transaction.SystemException;
 import javax.transaction.Transactional;
 
+import com.customer.backing.Customer;
+
 /**
  * @author analian
  *

@@ -1,9 +1,11 @@
-package com.customer;
+package com.customer.dao;
 
 import java.util.List;
 
 import javax.ejb.Stateless;
 import javax.persistence.Query;
+
+import com.customer.backing.User;
 @Stateless
 public class UserDAOImpl extends AbstractDAO<Integer, User> implements UserDAO  {
 	

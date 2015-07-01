@@ -1,4 +1,4 @@
-package com.customer;
+package com.customer.backing;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

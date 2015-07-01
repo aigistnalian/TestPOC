@@ -1,4 +1,4 @@
-package com.customer;
+package com.customer.dao;
 
 import java.lang.reflect.ParameterizedType;
 

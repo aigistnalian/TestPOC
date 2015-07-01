@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.customer;
+package com.customer.backing;
 
 import java.util.Date;
 
